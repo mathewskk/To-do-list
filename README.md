@@ -13,8 +13,4 @@ A simple command-line To Do List Manager built using Python.
 - Python
 - JSON Storage
 
-## How to Run
-
-1. Clone repository
-2. Run main.py
 
